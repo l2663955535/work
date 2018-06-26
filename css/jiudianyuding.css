@@ -5,14 +5,11 @@
 ul,li,ol{
     list-style: none;
 }
-.all
-{
-margin:0 auto;
-}
 .logo1{
     height:127px; 
     width:750px;
     text-align: center;
+    margin:0 auto;
 }
 .logo2{
     text-align: center;
@@ -20,6 +17,7 @@ margin:0 auto;
 .logo3{
     height: 120px;
     width:750px;
+    margin:0 auto;
 }
 .a{
     padding-top: 28px;
@@ -66,6 +64,7 @@ margin:0 auto;
     width:750px;
     height:365px;
     background:url(../images/17.png);
+    margin:0 auto;
 }
 .g{
     width: 160px;
@@ -131,6 +130,7 @@ margin:0 auto;
     width:750px; 
     height:30px;
     margin-top:63px;
+    margin:0 auto;
 }
 .q{
     margin-left: 41px;
@@ -267,6 +267,7 @@ margin:0 auto;
 .d1{
     width:750px;
     height:265px;
+    margin:0 auto;
 }
 .d2{
     width:218px;
@@ -294,6 +295,7 @@ margin:0 auto;
 .e3{
     width:750px;
     height:80px;
+    margin:0 auto;
 }
 .yema{  
     border:1px;
@@ -357,10 +359,12 @@ margin:0 auto;
     height:20px;
     background-color:#f5f5f5;
     margin-top:230px;
+    margin:0 auto;
 }
 .e8{
     width:750px;
     height:35px;
+    margin:0 auto;
 }
 .e4{
     position: relative;
@@ -411,6 +415,7 @@ margin:0 auto;
     height:20px;
     background-color:#f5f5f5;
     margin-top: 232px;
+    margin:0 auto;
 }
 .f2{
     display: inline-block;
@@ -426,6 +431,7 @@ margin:0 auto;
 .f5{
     width:750px;
     height:40px;
+    margin:0 auto;
 }
 .f6{
     width: 230px;
@@ -437,10 +443,12 @@ margin:0 auto;
     height:20px;
     background-color:#f5f5f5;
     margin-top: 0px;
+    margin:0 auto;
 }
 .r2{
     width:750px;
     height:210px;
+    margin:0 auto;
 }
 .mowei{
     border-style: solid;
@@ -450,6 +458,7 @@ margin:0 auto;
     height: 482px;
     margin-top: 272px;
     background-color: #343235;
+    margin:0 auto;
 }
 .mowei1{
     border:5px;
