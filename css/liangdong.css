@@ -7,18 +7,16 @@
 	height: 4500px;
 	width: 750px;
 }
-.all
-{
-margin:0 auto;
-}
 .shouji{
 	width:750px;
 	height: 120px;
+	margin:0 auto;
 }
 .header{
 	width:750px;
 	height: 120px;
 	background-color: white;
+	margin:0 auto;
 }
 .logo{
 	width: 234px;
@@ -59,6 +57,7 @@ margin:0 auto;
 .chujing{
 	width: 750px;
 	height: 80px;
+	margin:0 auto;
 }
 .redline{
 	margin-top: 45px;
@@ -155,6 +154,7 @@ margin:0 auto;
 	margin-left:44px;
 	margin-top: 40px;
 	font-size:24px;
+	margin:0 auto;
 }
 .jieshao{
 	float: left;
@@ -237,6 +237,7 @@ margin:0 auto;
 	height: 482px;
 	margin-top: 272px;
 	background-color: #343235;
+	margin:0 auto;
 }
 .mowei1{
 	border:5px;
