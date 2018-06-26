@@ -2,6 +2,10 @@
     padding: 0px;
     margin: 0px;
 }
+.all
+{
+margin:0 auto;
+}
 ul,li,ol{
     list-style: none;
 }
