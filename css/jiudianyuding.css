@@ -5,6 +5,10 @@
 ul,li,ol{
     list-style: none;
 }
+.all
+{
+margin:0 auto;
+}
 .logo1{
     height:127px; 
     width:750px;
